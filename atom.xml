@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Harnoel</title>
+  
+  <subtitle>Harnoel 博客</subtitle>
+  <link href="https://harnoel.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://harnoel.github.io/"/>
+  <updated>2022-11-04T16:52:19.172Z</updated>
+  <id>https://harnoel.github.io/</id>
+  
+  <author>
+    <name>Harnoel</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux教程（一）| 查看CPU和内存信息</title>
+    <link href="https://harnoel.github.io/posts/tools/environment/linux-jiao-cheng-cha-kan-cpu-he-nei-cun-xin-xi.html"/>
+    <id>https://harnoel.github.io/posts/tools/environment/linux-jiao-cheng-cha-kan-cpu-he-nei-cun-xin-xi.html</id>
+    <published>2018-09-18T04:11:55.000Z</published>
+    <updated>2022-11-04T16:52:19.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;日常工作过程中，经常需要通过了解虚拟机/物理机的CPU和内存信息，以便判断是否当前系统是否过载。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;基础知识&quot;&gt;&lt;a href=&quot;#基础知识&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="System" scheme="https://harnoel.github.io/categories/System/"/>
+    
+    
+    <category term="Linux" scheme="https://harnoel.github.io/tags/Linux/"/>
+    
+    <category term="System" scheme="https://harnoel.github.io/tags/System/"/>
+    
+  </entry>
+  
+</feed>
